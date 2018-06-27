@@ -1,0 +1,2 @@
+#tablero
+#nginx environment
